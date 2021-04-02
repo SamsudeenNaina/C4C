@@ -1,2 +1,2 @@
 # C4C
-Change 4 Change
+Change 4 Change - a Charity
